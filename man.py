@@ -1,1 +1,2 @@
-print("good mooring")
+print("good morning")
+print("no its bad morning")
